@@ -5,15 +5,17 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula18ExercicioSaidaDeDados", "Aula18ExercicioSaidaDeDados\Aula18ExercicioSaidaDeDados.csproj", "{466565C8-39AB-4DAE-9D04-09882F42A05A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula23ExercicioEntradaDeDados", "Aula23ExercicioEntradaDeDados\Aula23ExercicioEntradaDeDados.csproj", "{C60B3892-6F0A-4F7E-886E-B24685616B6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula23ExercicioEntradaDeDados", "Aula23ExercicioEntradaDeDados\Aula23ExercicioEntradaDeDados.csproj", "{C60B3892-6F0A-4F7E-886E-B24685616B6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula24ExercicioProposto1003Uri", "Aula24ExercicioProposto1003Uri\Aula24ExercicioProposto1003Uri.csproj", "{9358B3C6-8683-4CD8-8DEC-630CE8AFB361}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula24ExercicioProposto1003Uri", "Aula24ExercicioProposto1003Uri\Aula24ExercicioProposto1003Uri.csproj", "{9358B3C6-8683-4CD8-8DEC-630CE8AFB361}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula24ExercicioProposto1002", "Aula24ExercicioProposto1002\Aula24ExercicioProposto1002.csproj", "{E8D45FBA-9DD1-48A6-AD87-874438A5556E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula24ExercicioProposto1002", "Aula24ExercicioProposto1002\Aula24ExercicioProposto1002.csproj", "{E8D45FBA-9DD1-48A6-AD87-874438A5556E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula24ExercicioProposto1007Uri", "Aula24ExercicioProposto1007Uri\Aula24ExercicioProposto1007Uri.csproj", "{BA9806A7-F001-4636-A918-92427C477E88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula24ExercicioProposto1007Uri", "Aula24ExercicioProposto1007Uri\Aula24ExercicioProposto1007Uri.csproj", "{BA9806A7-F001-4636-A918-92427C477E88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula24ExercicioProposto1008", "Aula24ExercicioProposto1008\Aula24ExercicioProposto1008.csproj", "{3F3E0E9E-3A36-481F-8167-98F3BDB7E14F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula24ExercicioProposto1008", "Aula24ExercicioProposto1008\Aula24ExercicioProposto1008.csproj", "{3F3E0E9E-3A36-481F-8167-98F3BDB7E14F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula24ExercicioProposto1010", "Aula24ExercicioProposto1010\Aula24ExercicioProposto1010.csproj", "{F800616F-FE21-45A4-8ACC-48DC593056E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{3F3E0E9E-3A36-481F-8167-98F3BDB7E14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F3E0E9E-3A36-481F-8167-98F3BDB7E14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F3E0E9E-3A36-481F-8167-98F3BDB7E14F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F800616F-FE21-45A4-8ACC-48DC593056E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F800616F-FE21-45A4-8ACC-48DC593056E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F800616F-FE21-45A4-8ACC-48DC593056E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F800616F-FE21-45A4-8ACC-48DC593056E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
