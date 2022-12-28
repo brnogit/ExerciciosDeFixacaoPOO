@@ -37,9 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula29ExercicioProposto08Ur
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula33ExercicioProposto01", "Aula33ExercicioProposto01\Aula33ExercicioProposto01.csproj", "{9FD22D41-F623-4187-9723-63D31065492A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula33ExercicioProposto02Uri1115", "Aula33ExercicioProposto02Uri1115\Aula33ExercicioProposto02Uri1115.csproj", "{2F247B0F-E4D3-4E63-8E9F-27ED2C3EEA7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula33ExercicioProposto02Uri1115", "Aula33ExercicioProposto02Uri1115\Aula33ExercicioProposto02Uri1115.csproj", "{2F247B0F-E4D3-4E63-8E9F-27ED2C3EEA7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula33ExercicioProposto03Uri1134", "Aula33ExercicioProposto03Uri1134\Aula33ExercicioProposto03Uri1134.csproj", "{16F42D6A-4143-4FAB-9100-0E87F05C7547}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula33ExercicioProposto03Uri1134", "Aula33ExercicioProposto03Uri1134\Aula33ExercicioProposto03Uri1134.csproj", "{16F42D6A-4143-4FAB-9100-0E87F05C7547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula35ExercicioProposto01Uri1067", "Aula35ExercicioProposto01Uri1067\Aula35ExercicioProposto01Uri1067.csproj", "{79F2B330-18C8-4B30-9A6C-0785EBF99CE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{16F42D6A-4143-4FAB-9100-0E87F05C7547}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16F42D6A-4143-4FAB-9100-0E87F05C7547}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16F42D6A-4143-4FAB-9100-0E87F05C7547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F2B330-18C8-4B30-9A6C-0785EBF99CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F2B330-18C8-4B30-9A6C-0785EBF99CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F2B330-18C8-4B30-9A6C-0785EBF99CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F2B330-18C8-4B30-9A6C-0785EBF99CE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
