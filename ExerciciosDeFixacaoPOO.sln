@@ -41,17 +41,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula33ExercicioProposto02Ur
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula33ExercicioProposto03Uri1134", "Aula33ExercicioProposto03Uri1134\Aula33ExercicioProposto03Uri1134.csproj", "{16F42D6A-4143-4FAB-9100-0E87F05C7547}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula35ExercicioProposto01Uri1067", "Aula35ExercicioProposto01Uri1067\Aula35ExercicioProposto01Uri1067.csproj", "{79F2B330-18C8-4B30-9A6C-0785EBF99CE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula35ExercicioProposto01Uri1067", "Aula35ExercicioProposto01Uri1067\Aula35ExercicioProposto01Uri1067.csproj", "{79F2B330-18C8-4B30-9A6C-0785EBF99CE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula35ExercicioProposto02Uri1072", "Aula35ExercicioProposto02Uri1072\Aula35ExercicioProposto02Uri1072.csproj", "{F4E5033B-3734-4A9F-8F80-29C077BB12A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula35ExercicioProposto02Uri1072", "Aula35ExercicioProposto02Uri1072\Aula35ExercicioProposto02Uri1072.csproj", "{F4E5033B-3734-4A9F-8F80-29C077BB12A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula35ExercicioProposto03Uri1079", "Aula35ExercicioProposto03Uri1079\Aula35ExercicioProposto03Uri1079.csproj", "{CF5130A1-F317-42CF-B43F-B329EE950349}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula35ExercicioProposto03Uri1079", "Aula35ExercicioProposto03Uri1079\Aula35ExercicioProposto03Uri1079.csproj", "{CF5130A1-F317-42CF-B43F-B329EE950349}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula35ExercicioProposto04Uri1116", "Aula35ExercicioProposto04Uri1116\Aula35ExercicioProposto04Uri1116.csproj", "{D18F5400-48DC-4CFF-8334-50967112738F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula35ExercicioProposto04Uri1116", "Aula35ExercicioProposto04Uri1116\Aula35ExercicioProposto04Uri1116.csproj", "{D18F5400-48DC-4CFF-8334-50967112738F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula35Exercicioproposto05Uri1153", "Aula35Exercicioproposto05Uri1153\Aula35Exercicioproposto05Uri1153.csproj", "{46405FE6-32C8-41E0-81A6-E955B3FC77D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula35Exercicioproposto05Uri1153", "Aula35Exercicioproposto05Uri1153\Aula35Exercicioproposto05Uri1153.csproj", "{46405FE6-32C8-41E0-81A6-E955B3FC77D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula35ExercicioProposto06Uri1157", "Aula35ExercicioProposto06Uri1157\Aula35ExercicioProposto06Uri1157.csproj", "{1974DCCE-AF31-4FC5-83D7-9CC659A3113C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula35ExercicioProposto06Uri1157", "Aula35ExercicioProposto06Uri1157\Aula35ExercicioProposto06Uri1157.csproj", "{1974DCCE-AF31-4FC5-83D7-9CC659A3113C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula35ExercicioProposto07Uri1143", "Aula35ExercicioProposto07Uri1143\Aula35ExercicioProposto07Uri1143.csproj", "{E80D8163-59B8-43D0-B95F-AC0DA157FC82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{1974DCCE-AF31-4FC5-83D7-9CC659A3113C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1974DCCE-AF31-4FC5-83D7-9CC659A3113C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1974DCCE-AF31-4FC5-83D7-9CC659A3113C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E80D8163-59B8-43D0-B95F-AC0DA157FC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80D8163-59B8-43D0-B95F-AC0DA157FC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80D8163-59B8-43D0-B95F-AC0DA157FC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80D8163-59B8-43D0-B95F-AC0DA157FC82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
