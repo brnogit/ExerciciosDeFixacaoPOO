@@ -53,7 +53,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula35Exercicioproposto05Ur
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula35ExercicioProposto06Uri1157", "Aula35ExercicioProposto06Uri1157\Aula35ExercicioProposto06Uri1157.csproj", "{1974DCCE-AF31-4FC5-83D7-9CC659A3113C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula35ExercicioProposto07Uri1143", "Aula35ExercicioProposto07Uri1143\Aula35ExercicioProposto07Uri1143.csproj", "{E80D8163-59B8-43D0-B95F-AC0DA157FC82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula35ExercicioProposto07Uri1143", "Aula35ExercicioProposto07Uri1143\Aula35ExercicioProposto07Uri1143.csproj", "{E80D8163-59B8-43D0-B95F-AC0DA157FC82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula40ExercicioProposto01", "Aula40ExercicioProposto01\Aula40ExercicioProposto01.csproj", "{B9382C97-0853-4FBF-B721-B1C27D089FB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{E80D8163-59B8-43D0-B95F-AC0DA157FC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E80D8163-59B8-43D0-B95F-AC0DA157FC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E80D8163-59B8-43D0-B95F-AC0DA157FC82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9382C97-0853-4FBF-B721-B1C27D089FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9382C97-0853-4FBF-B721-B1C27D089FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9382C97-0853-4FBF-B721-B1C27D089FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9382C97-0853-4FBF-B721-B1C27D089FB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
